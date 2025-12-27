@@ -1,1 +1,1 @@
-![Dashboard Overview](saadscreenshot1)
+![Dashboard Overview](saadscreenshot1.png)
